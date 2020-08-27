@@ -1,0 +1,21 @@
+
+{"from":"Chennai",
+"to":"Bangkok",
+"triptype":"Roundtrip",
+"fromeDate":"20/06/2020",
+"returnDate":"25/06/2020",
+"flightNo":"AS56890",
+"passengerName":"Manoj",
+"PassengerDob":"04/06/1995",
+"streetName":"OMR",
+"cityName":"Chennai",
+"districtName":"Chennai",
+"sateName":"TamilNadu",
+"countryName":"India",
+"email":"manojsekar4613@gmail.com",
+"phone":8015572746,
+"cardName":"VISA",
+"cardHolderName":"Manojkumar",
+"cardNo":4598756984236941,
+"ccv":564
+	}

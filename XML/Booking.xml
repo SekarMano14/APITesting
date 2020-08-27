@@ -1,0 +1,35 @@
+<booking>
+	<from>Chennai</from>
+	<to>Bangkok</to>
+	<tripType>Roundtrip</tripType>
+	<fromeDate>20/06/2020</fromeDate>
+	<returnDate>25/06/2020</returnDate>
+	<flightNo>AS56890</flightNo>
+	<passengerDetails>
+		<name>ManojKumar</name>
+		<dob>04/06/2020</dob>
+		<address>
+			<streetName>OMR</streetName>
+			<cityName>Chennai</cityName>
+			<districtName>Chennai</districtName>
+			<sateName>TamilNadu</sateName>
+			<countryName>India</countryName>
+			<communicationDetails>
+				<phone>
+					<mobileNo>8015572746</mobileNo>
+					<landlineNo>9442009908</landlineNo>
+				</phone>
+				<email>
+					<personal>sekarmano95@gmail.com</personal>
+					<official>manojsekar4613@gmail.com</official>
+				</email>
+			</communicationDetails>
+		</address>
+	</passengerDetails>
+	<paymentDetails>
+		<cardName>VISA</cardName>
+		<cardHolderName>Manojkumar</cardHolderName>
+		<cardNo>4598756984236941</cardNo>
+		<ccv>589</ccv>
+	</paymentDetails>
+</booking>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/APITesting.iml" filepath="$PROJECT_DIR$/.idea/APITesting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AdactinHotel/.idea/AdactinHotel.iml" filepath="$PROJECT_DIR$/../AdactinHotel/.idea/AdactinHotel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Employee/.idea/Employee.iml" filepath="$PROJECT_DIR$/../Employee/.idea/Employee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MobileTesting/.idea/MobileTesting.iml" filepath="$PROJECT_DIR$/../MobileTesting/.idea/MobileTesting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python02.00PM/.idea/Python02.00PM.iml" filepath="$PROJECT_DIR$/../Python02.00PM/.idea/Python02.00PM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python03.00PM/.idea/Python03.00PM.iml" filepath="$PROJECT_DIR$/../Python03.00PM/.idea/Python03.00PM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python04.00PM/.idea/Python04.00PM.iml" filepath="$PROJECT_DIR$/../Python04.00PM/.idea/Python04.00PM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python07.30PMBatch/.idea/Python07.30PMBatch.iml" filepath="$PROJECT_DIR$/../Python07.30PMBatch/.idea/Python07.30PMBatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python6.30PM/.idea/Python6.30PM.iml" filepath="$PROJECT_DIR$/../Python6.30PM/.idea/Python6.30PM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python7PM/.idea/Python7PM.iml" filepath="$PROJECT_DIR$/../Python7PM/.idea/Python7PM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python8/.idea/Python8.iml" filepath="$PROJECT_DIR$/../Python8/.idea/Python8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python930AM/.idea/Python930AM.iml" filepath="$PROJECT_DIR$/../Python930AM/.idea/Python930AM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PythonPractice/.idea/PythonPractice.iml" filepath="$PROJECT_DIR$/../PythonPractice/.idea/PythonPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Selenium/.idea/Selenium.iml" filepath="$PROJECT_DIR$/../Selenium/.idea/Selenium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Selenium8PM/.idea/Selenium8PM.iml" filepath="$PROJECT_DIR$/../Selenium8PM/.idea/Selenium8PM.iml" />
+    </modules>
+  </component>
+</project>
